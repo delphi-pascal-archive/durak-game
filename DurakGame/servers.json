@@ -1,0 +1,84 @@
+{
+  "user": {
+    "u1": {
+      "name": {
+        "en": "Topaz",
+        "ru": "Топаз"
+      },
+      "image": {
+        "en": "http://durakgame.s3.amazonaws.com/public/serverimages/s_u5en.png?4",
+        "ru": "http://durakgame.s3.amazonaws.com/public/serverimages/s_u5ru.png?4"
+      },
+      "host": "148.251.124.239",
+      "port": 10773,
+      "weight": 1.0
+    },
+    "u2": {
+      "name": {
+        "en": "Amethyst",
+        "ru": "Аметист"
+      },
+      "image": {
+        "en": "http://durakgame.s3.amazonaws.com/public/serverimages/s_u4en.png?4",
+        "ru": "http://durakgame.s3.amazonaws.com/public/serverimages/s_u4ru.png?4"
+      },
+      "host": "148.251.124.239",
+      "port": 10774,
+      "weight": 1.0
+    },
+    "u3": {
+      "name": {
+        "en": "Emerald",
+        "ru": "Изумруд"
+      },
+      "image": {
+        "en": "http://durakgame.s3.amazonaws.com/public/serverimages/s_u1en.png?4",
+        "ru": "http://durakgame.s3.amazonaws.com/public/serverimages/s_u1ru.png?4"
+      },
+      "host": "148.251.124.239",
+      "port": 10775,
+      "weight": 1.0
+    },
+    "u4": {
+      "name": {
+        "en": "Ruby",
+        "ru": "Рубин"
+      },
+      "image": {
+        "en": "http://durakgame.s3.amazonaws.com/public/serverimages/s_u2en.png?4",
+        "ru": "http://durakgame.s3.amazonaws.com/public/serverimages/s_u2ru.png?4"
+      },
+      "host": "148.251.124.239",
+      "port": 10776,
+      "weight": 1.0
+    },
+    "u5": {
+      "name": {
+        "en": "Sapphire",
+        "ru": "Сапфир"
+      },
+      "image": {
+        "en": "http://durakgame.s3.amazonaws.com/public/serverimages/s_u3en.png?4",
+        "ru": "http://durakgame.s3.amazonaws.com/public/serverimages/s_u3ru.png?4"
+      },
+      "host": "148.251.124.239",
+      "port": 10771,
+      "weight": 1.0
+    },
+    "u6": {
+      "name": {
+        "en": "Aquamarine",
+        "ru": "Аквамарин"
+      },
+      "image": {
+        "en": "http://durakgame.s3.amazonaws.com/public/serverimages/s_u6en.png?4",
+        "ru": "http://durakgame.s3.amazonaws.com/public/serverimages/s_u6ru.png?4"
+      },
+      "host": "148.251.124.239",
+      "port": 10772,
+      "weight": 1.0
+    }
+  },
+  "game": {
+  }
+}
